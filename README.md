@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UDavid546
 - 👀 I’m interested in Python, Data Science, Machine Learning, Excel and Computer Vision.
-- 🌱 I’m currently learning Python and Advanced Excel.
+- 🌱 I’m currently learning Python, Data Science and Advanced Excel.
 - 💞️ I’m looking to collaborate on projects in Python, Data Science and Machine Learning.
 - 📫 You can reach me on usdavid2020@gmail.com
 
